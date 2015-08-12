@@ -1,4 +1,3 @@
-# Reproducible-peer-assessment-1
 assignment](http://github.com/rdpeng/RepData_PeerAssessment1). You
  will submit this assignment by pushing your completed files into your
  forked repository on GitHub. The assignment submission will consist of
@@ -28,5 +27,5 @@ assignment](http://github.com/rdpeng/RepData_PeerAssessment1). You
 +A valid submission will look something like (this is just an **example**!)
 +
 +```r
-+https://github.com/rdpeng/RepData_PeerAssessment1
-
++https://github.com/yogitagigras/Reproducible-peer-assessment-1
++
